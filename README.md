@@ -23,6 +23,14 @@ if there are more textual variants to chose from which happens to be the case.
 Note also that any attempt to use strct checksums to identify a license is
 a weak approach since there are so many small variants.
 
+The COPYING and linux.COPYING have a partially reconstructed and incomplete git
+history.
+
+The allvers directory contains every known versions without any attempt to craft
+a proper git history. There are also branches that contained the filtered Linux
+commit/patches history for the Linux COPYING file (built using historical Linux
+trees and lengthy git filter-branch)
+
 
 Thanks to:
  - Armijn Hemel @armijnhemel for helping maintaining this an reporting several
