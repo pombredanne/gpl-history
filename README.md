@@ -3,11 +3,11 @@
 This is a collection of historical variants of the GPL-2.0 text as published
 by the FSF and GNU project as well as key adopters (such as the Linux kernel).
 
-It started as a tongue-in-cheek excercise after some exchanges with Linus,
+It started as a tongue-in-cheek exercise after some exchanges with Linus,
 Alan Cox and other kernel maintainers on LKML while I was working as an Elf
 helper to Thomas Gleixner during the 2017-2019 campaign to clean up the kernel
 licensing documentation. There was an argument about which source to use for the
-GPL text and whether the text used in Linux was correct and I jumped in with
+GPL text and whether the text used in Linux was correct, and I jumped in with
 some GPL text history.
 
 This repo is an attempt to store it all in git.
@@ -17,23 +17,23 @@ Why? The GPL starts with this:
     Everyone is permitted to copy and distribute verbatim copies
     of this license document, but changing it is not allowed.
 
-If you take this statement literally, verbatim becomes slightly more flexible
-if there are more textual variants to chose from which happens to be the case.
+If you take this statement literally, "verbatim" becomes slightly more flexible
+if there are more textual variants to chose from, which happens to be the case.
 
-Note also that any attempt to use strct checksums to identify a license is
+Note also that any attempt to use strict checksums to identify a license is
 a weak approach since there are so many small variants.
 
-The COPYING and linux.COPYING have a partially reconstructed and incomplete git
+The `COPYING` and `linux.COPYING` files have a partially reconstructed and incomplete git
 history.
 
-The allvers directory contains every known versions without any attempt to craft
+The `allvers` directory contains every known version without any attempt to craft
 a proper git history. There are also branches that contained the filtered Linux
-commit/patches history for the Linux COPYING file (built using historical Linux
+commit/patches history for the Linux `COPYING` file (built using historical Linux
 trees and lengthy git filter-branch)
 
 
 Thanks to:
- - Armijn Hemel @armijnhemel for helping maintaining this an reporting several
+ - Armijn Hemel @armijnhemel for helping maintaining this and reporting several
    new variants
 
 
