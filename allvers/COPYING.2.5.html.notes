@@ -1,0 +1,11 @@
+Date introduced/changed: 1998-01-26 or earlier
+Link: https://web.archive.org/web/19980126185638/http://www.gnu.org/copyleft/gpl.html
+
+It has several small changes from v2. Beside the HTML formatting,
+ - The TERMS and CONDITIONS does not mention:
+   "GNU GENERAL PUBLIC LICENSE"
+ - "Appendix" is no mentione at the start of the Appendix
+
+Therefore, the header is like in COPYING.2 and the missing "Appendix: "
+is like in COPYING.3, hence why this is christened as a v2.5
+
