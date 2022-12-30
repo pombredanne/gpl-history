@@ -1,15 +1,14 @@
-Date: 1998-09-060
+Date: 1998-09-06
 
 Links:
     - https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/plain/COPYING?h=2.2.0&id=716454f016a97382ec4182b92603784387091801
     - https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/commit/COPYING?h=2.2.0&id=716454f016a97382ec4182b92603784387091801
     - http://cdn.kernel.org/pub/linux/kernel/v2.1/linux-2.1.121.tar.gz
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.3/linux-2.3.99-pre9.tar.gz
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-test7.tar.gz 
 
 Notes: the FSF moves to 59 Temple place.
- This version is from 2.1.121pre1
+ This version is used from from 2.1.121pre1 until 2.3.99-pre9
  The Appendix is dropped. This version has the syscall notes with the uppercase L
  Per https://en.wikipedia.org/wiki/Linux_kernel_version_history
- the tag  2.1.121pre1 must be dated in between these two releases: 
-  2.0      9 June 1996
-  2.2     26 January 1999
- The tarball for 121 has a COPYING from 1998-09-060
+ The tarball for 121 has a COPYING from 1998-09-06

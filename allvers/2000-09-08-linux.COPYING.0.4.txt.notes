@@ -1,0 +1,19 @@
+Date: 2000-09-08
+Links:
+    - https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/commit/COPYING?id=7a2deb32924142696b8174cdf9b38cd72a11fc96
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-test8.tar.gz
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-prerelease.tar.gz
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-test12.tar.gz
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-test9.tar.gz
+
+Notes: The key change is the addition of the GPL 2.0 only statement:
+ This version date is not clear but is seen here and predates v2.4.11
+ Also note that the only valid version of the GPL as far as the kernel
+ is concerned is _this_ license (ie v2), unless explicitly otherwise
+ stated.
+ Per https://en.wikipedia.org/wiki/Linux_kernel_version_history
+ this commit must predate v2.4.11 and come after 2.2
+    2.2    26 January 1999
+    2.4     4 January 2001
+ Not in 2.2, not in any 2.3 but present in 2.4.0
+ https://mirrors.edge.kernel.org/pub/linux/kernel/v2.4/old-test-kernels/linux-2.4.0-test8.tar.gz 
