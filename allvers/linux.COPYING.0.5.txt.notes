@@ -1,3 +1,5 @@
+The date from some git history is 2002-02-04 20:21:26 -0800
+It could be earlier as the git dates have been unstable 
 
 Let's make sure this is really GPL v2 ONLY #2
 
@@ -7,3 +9,5 @@ See https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/commit/COPY
 https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/plain/COPYING?id=6211a2d822e38a0202f3a395a96272400409d7af
 
 Add this note to the syscall note: "not v2.2 or v3.x or whatever"
+
+

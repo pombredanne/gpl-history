@@ -1,0 +1,9 @@
+Links:
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/v0.99/linux-0.99.11.tar.gz
+    - https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/commit/COPYING?h=2.2.0&id=d9f8e0ec9c1cfc6db81e2780442996f7657e8ca2
+    - https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/plain/COPYING?h=2.2.0&id=d9f8e0ec9c1cfc6db81e2780442996f7657e8ca2
+    - http://cdn.kernel.org/pub/linux/kernel/v2.0/linux-2.0.1.tar.bz2
+
+Notes: The first GPL with syscall notes
+ This versions introduces the syscall notes on July 17, 1993. Tag 0.99.11
+ And this is used until 2.0.1 
