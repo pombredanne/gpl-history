@@ -1,0 +1,8 @@
+
+Correct case for Linux with uppercase L
+
+This version is from pre-104 tagged as 2.1.104pre1
+See https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/commit/?h=2.1.104pre1&id=17559565b9ee80d97efb8de16dc199da45179bbc
+
+And https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/diff/COPYING?h=2.1.104pre1&id=17559565b9ee80d97efb8de16dc199da45179bbc
+

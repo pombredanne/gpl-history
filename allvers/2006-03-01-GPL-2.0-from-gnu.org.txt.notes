@@ -1,0 +1,6 @@
+Date: 20060301
+Link: http://web.archive.org/web/20060301101606if_/http://www.gnu.org:80/licenses/gpl.txt
+Notes: This version has "Franklin St" instead of "Franklin Street" in both
+ preamble and appendix. This is older than 5.1 but before 6.
+ There is also a regression wrt. Library vs. lesser
+ 

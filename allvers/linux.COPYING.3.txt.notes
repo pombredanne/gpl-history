@@ -1,0 +1,12 @@
+
+Moving to the LICENSES directory
+
+On 2018-03-23 COPYING moves to LICENSES/COPYING
+Seen in https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/COPYING?id=bf02d491237eea10290bd379bf7fc8c37ac6c3b4
+
+COPYING's history meets and collides with this COPYING history.
+As a weird twist of fate the efforts of licensing clarification
+in the Linux kernel that led to the creation of this history also
+altered the history of the COPYING file itself. This is the
+problem with time-travel: if you travel back in time, you will alter
+history and create a new now and a different future.

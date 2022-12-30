@@ -1,0 +1,8 @@
+
+Add more common variant from gnu.org #8
+
+This variant is from
+ https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+It is the same as COPYING.6 except for spacing, but is the more
+popular "verbatim" text in use per Armijn

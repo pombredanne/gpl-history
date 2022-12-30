@@ -1,0 +1,6 @@
+Date: This variant is from September 5, 1992 for the kernel 0.97.3
+Link: https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/tree/COPYING?h=2.2.0&id=fdb2f0a59a1c76a7ee7b9478fae06f76bc697152
+
+Notes: The very first GPL from the Linux tree COPYING file
+ It has a 675 Mass Ave arraddess and notably no syscall notes.
+ It uses spaces and no tabs. It most likely is based on v2 or V3

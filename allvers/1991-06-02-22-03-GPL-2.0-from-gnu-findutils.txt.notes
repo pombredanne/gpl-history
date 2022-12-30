@@ -1,0 +1,17 @@
+Date: Sun, Jun  2 1991 22:03:17
+Link: http://ftp.gnu.org/gnu/findutils/findutils-4.1.tar.gz
+Notes:  This second first true and only GPL 2 aka. the "one dot one" version.
+ * This is the COPYING file in findutils 4.1
+ * This file has a slightly older time stamp than the GCC 2.0 version
+ * This is still the same date as the date of the GPL text itself
+ This corrects the typo from v2.1 on line 18 "he" instead of "the":
+ "the GNU Library General Public License instead.)"
+ 
+ FSF's address at 675 Mass Ave, Cambridge, MA 02139, USA
+ 
+ This is also seen in GNU make make-3.62, but about a day later, on
+ Mon, Jun  3 1991 22:36:55.
+ 
+ http://ftp.gnu.org/old-gnu/make/make-3.60-3.62.diff.gz (patch date recorded June 3, 1991)
+ And https://web.archive.org/save/http://ftp.funet.fi/index/amiga/unix/misc/make-3.62.tar.gz
+

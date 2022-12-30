@@ -1,0 +1,9 @@
+
+Let's make sure this is really GPL v2 ONLY #2
+
+This version clarifies the v2 vs. v3 GPL issue. Seen in tag v2.4.11
+See https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/commit/COPYING?id=6211a2d822e38a0202f3a395a96272400409d7af
+
+https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/plain/COPYING?id=6211a2d822e38a0202f3a395a96272400409d7af
+
+Add this note to the syscall note: "not v2.2 or v3.x or whatever"
