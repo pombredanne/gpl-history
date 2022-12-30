@@ -1,0 +1,7 @@
+Date: 2002-03-02
+Notes: Second version of Linux COPYING becomes Y2k compliant
+ quinlan@transmeta.com: [PATCH] take COPYING into new century:
+ These mods are directly from the FSF version.
+ 
+Links:
+    - https://git.kernel.org/pub/scm/linux/kernel/git/tglx/history.git/commit/COPYING?id=b965dc9f74ab5b7b8ec9877b6262885c2cb74ca1

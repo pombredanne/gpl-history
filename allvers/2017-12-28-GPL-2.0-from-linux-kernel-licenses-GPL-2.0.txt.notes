@@ -1,5 +1,5 @@
 
-Moving to the LICENSES directory
+Moving COPYING to the LICENSES directory
 
 On 2017-12-28 COPYING moves to LICENSES/preferred/GPL-2.0
 Seen in https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/plain/LICENSES/preferred/GPL-2.0?id=255247c2770ada6edace04173b35307869b47d99
