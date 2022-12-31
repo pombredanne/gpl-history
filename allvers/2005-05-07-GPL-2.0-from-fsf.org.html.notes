@@ -1,8 +1,0 @@
-
-Add HTML variant of Mark5 #5
-
-This is the HTML from view-source:https://web.archive.org/web/20050507090312/http://www.fsf.org/licensing/licenses/gpl.html
-
-Beside the HTML format, is it missing "GNU GENERAL PUBLIC LICENSE" in
-its header and use angle brackets and "yyyy" instead of "year" in the
-notice template
