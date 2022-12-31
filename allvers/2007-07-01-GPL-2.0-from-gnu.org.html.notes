@@ -1,10 +1,9 @@
-
-Add the HTML variant of v6 #1
-
-From https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-In this version (beyond the HTML formatting) the differences are:
-   angle brackets and "yyyy" instead of "year" in the appendix
-
-Fix #1
-
-https://web.archive.org/web/20070701213050/https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Date: 2007-07-01
+Links:
+    - https://web.archive.org/web/20070701213050/https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Notes: 
+ In this version the only changes is the HTML formatting when compared to the
+ previous HTML version from gnu.org 
+ Shortly after the publication of the GPL 3.0, the good ole GPL 2.0
+ was retired to the old licenses cemetery in the "old-licenses" dir.
+ And along the GPL 2 HTML received a cosmetic touchup. 
