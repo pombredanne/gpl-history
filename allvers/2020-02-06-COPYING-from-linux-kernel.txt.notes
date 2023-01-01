@@ -1,0 +1,18 @@
+
+Clarity is everything when a pandemic starts
+
+This version adds a contributor license agreement on 2020-02-06:
+  "All contributions to the Linux Kernel are subject to this
+  COPYING file."
+
+Greg Kroah-Hartman commit comments are telling:
+
+   COPYING: state that all contributions really are covered by this file
+   Explicitly state that all contributions to the kernel source tree
+   really are covered under this COPYING file in case someone thought
+   otherwise.  Lawyers love to be pedantic, even more so than software
+   engineers at times, and this sentence makes them sleep easier.
+
+See https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/COPYING?id=74835c7db0322b6eddf091b8b062f127b8999a0a
+
+ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/plain/COPYING?id=74835c7db0322b6eddf091b8b062f127b8999a0a

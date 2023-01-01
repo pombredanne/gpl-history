@@ -1,0 +1,13 @@
+
+Add GPL-2.0-only/or-later as valid identifiers
+
+This version results from an existential debate between the FSF and SPDX
+where SPDX accepted to rename GPL-2.0 and GPL-2.0+ license ids to
+GPL-2.0-only and GPL-2.0-or-later respectively (and same for other FSF
+licenses) creating havoc in the kernel community and everywhere where
+using SPDX ids was starting to take off. The kernel followed suite
+kindly though to set a good example.
+
+See https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/LICENSES/preferred/GPL-2.0?id=9376ff9ba298c983062a12cbbafde506a4eaea71
+
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/plain/LICENSES/preferred/GPL-2.0?id=9376ff9ba298c983062a12cbbafde506a4eaea71

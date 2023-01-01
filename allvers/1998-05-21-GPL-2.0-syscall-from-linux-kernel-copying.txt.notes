@@ -1,0 +1,17 @@
+
+
+Correct case for Linux with uppercase L
+
+This version is from pre-104 tagged as 2.1.104pre1
+See https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/commit/?h=2.1.104pre1&id=17559565b9ee80d97efb8de16dc199da45179bbc
+
+And https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/diff/COPYING?h=2.1.104pre1&id=17559565b9ee80d97efb8de16dc199da45179bbc
+
+Per https://en.wikipedia.org/wiki/Linux_kernel_version_history
+the tag 2.1.104pre1 must be dated in between these two releases: 
+
+2.0      9 June 1996
+2.2     26 January 1999 
+
+Used from http://cdn.kernel.org/pub/linux/kernel/v2.1/linux-2.1.104.tar.gz
+Used until http://cdn.kernel.org/pub/linux/kernel/v2.1/linux-2.1.120.tar.xz

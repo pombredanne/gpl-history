@@ -1,0 +1,6 @@
+Date: between October 18, 2000 and December 1, 2000
+Link: http://web.archive.org/web/20001201224600/http://www.fsf.org:80/copyleft/gpl.txt
+Notes: This version Y2K compliant version and was was made Y2K-proof.
+ In order to avoid a catastrophic hardcoded date problem,
+ the GPL 2 became Y2K compliant at last late in 2000. The copyright
+ template "19yy" is replaced by "<year>".

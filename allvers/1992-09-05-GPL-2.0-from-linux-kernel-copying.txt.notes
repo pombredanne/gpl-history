@@ -1,0 +1,13 @@
+Date: This variant is from September 5, 1992 for the kernel 0.97.3
+Links:
+    - https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/tree/COPYING?h=2.2.0&id=fdb2f0a59a1c76a7ee7b9478fae06f76bc697152
+    - https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/v0.99/linux-0.99.10.tar.z
+
+Notes: The very first GPL from the Linux tree COPYING file
+ It has a 675 Mass Ave address and notably no syscall notes.
+ It uses spaces and no tabs. It is the same as 1991-06-02-22-03-GPL-2.0-from-gnu-findutils 
+ Used until kernel 0.99.10
+ Interestingly the 0.97.3 notes has these comments from Linus:
+    Hey, we switched to the GPL several months ago, but only now do we
+    include the license text itself.  Apparently everybody expected
+    everybody else to just know what the GPL was.. 

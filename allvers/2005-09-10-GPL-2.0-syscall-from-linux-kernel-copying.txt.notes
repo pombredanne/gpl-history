@@ -1,0 +1,6 @@
+update FSF address in COPYING
+FSF has moved so update the address as per
+http://www.gnu.org/licenses/gpl.txt.
+
+It uses 51 Franklin St like the HTML 2005-05-07-GPL-2.0-from-fsf.org
+and the future text 2006-03-01-GPL-2.0-from-gnu.org

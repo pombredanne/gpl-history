@@ -1,7 +1,8 @@
 # gpl-history
 
 This is a collection of historical variants of the GPL-2.0 text as published
-by the FSF and GNU project as well as key adopters (such as the Linux kernel).
+by the FSF and GNU project as well as key adopters (such as the Linux kernel
+and GNU Bash, GCC or Findutils).
 
 It started as a tongue-in-cheek exercise after some exchanges with Linus,
 Alan Cox and other kernel maintainers on LKML while I was working as an Elf
@@ -23,18 +24,92 @@ if there are more textual variants to chose from, which happens to be the case.
 Note also that any attempt to use strict checksums to identify a license is
 a weak approach since there are so many small variants.
 
-The `COPYING` and `linux.COPYING` files have a partially reconstructed and incomplete git
-history.
+The `COPYING` and `linux.COPYING` files have a partially reconstructed and
+incomplete git history.
 
 The `allvers` directory contains every known version without any attempt to craft
-a proper git history. There are also branches that contained the filtered Linux
-commit/patches history for the Linux `COPYING` file (built using historical Linux
-trees and lengthy git filter-branch)
+a proper git history; instead each version is a new file and there is a .notes
+files with notes and URLs.
 
+There are also branches that contained the filtered Linux commit/patches history
+for the Linux `COPYING` file (built using historical Linux trees and lengthy git
+filter-branch), but this is incomplete.
 
-Thanks to:
+---------
+
+Big thanks to:
  - Armijn Hemel @armijnhemel for helping maintaining this and reporting several
    new variants
+
+---------
+
+On 2017-12-28 COPYING file from the Linux kernel moves to LICENSES/preferred/GPL-2.0
+
+The Linux COPYING's history ends and meets and collides with this COPYING and
+GPL history! As a weird twist of fate the efforts of licensing clarification in
+the Linux kernel that led to the creation of this history as a tongu-in-cheek
+also altered the history of the Linux kernel COPYING file itself. This is the
+problem with time-travel: if you travel back in time, you will alter history
+and create a new now and a possibly different future.
+
+For the history of history, here is the full commit message from Thomas Gleixner
+forever binding this repository history to Linux commit history:
+
+---------
+
+    LICENSES: Add the GPL 2.0 license
+    Add the full text of the GPL 2.0 license to the LICENSES directory.  It was
+    copied directly from the COPYING file in the kernel source tree as it
+    differs from the public available version of the license in various places
+    including the FSF.
+    
+    Philippe did some research on the GPL2.0 history:
+    
+      There is NO trustworthy version of an official GPL 2.0 text: the FSF
+      official texts are all fubar (if only in small and subtle ways). The FSF
+      texts should be authoritative, but then which one? They published more
+      GPL 2.0 versions than most. So we would be hard pressed to blame SPDX or
+      the OSI for having their own minor variant.
+    
+      Then in digging further, I found the ONE true original GPL with a file
+      time stamp on June 2 1991, 01:50 (AM?, PM? unknown time zone?)  ! in an
+      old GCC archive.
+    
+      For the posterity and everyone's enjoyment I have built a git history
+      of GPL 2.0 Mark1 to Mark6
+    
+      See https://github.com/pombredanne/gpl-history/commits/master/COPYING
+    
+      I also added a shorter history of the Linux COPYING text. The first
+      version in Linus's git tree is based on the very fine and well tuned GPL
+      2 Mark4, the first fully Y2K compliant version of the GPL 2, as you can
+      see from the diffs with the former Mark3: that was dangerously stuck in
+      the last century.
+    
+      The current version in is based on a rare GPL 2.0 Mark5.1 aka "Franklin
+      St", that I do not have in my history yet and spells "Franklin St."
+      rather than "Franklin Street."  Therefore there is likely another GPL 2.0
+      version between Mark4 and Mark5 that I have yet to find and may not have
+      been caught by the archive.org spiders. Here help and patches welcomed:
+      this is likely an important missing link.
+    
+      Further information about this archaelogical research;
+    
+      http://lkml.kernel.org/r/CAOFm3uEzRMf261+O-Nm+9HDoEn9RbFjH=5J9i1C2GgMUg2G4LA@mail.gmail.com
+    
+    Add the required tags for reference and tooling.
+    
+    Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
+    Reviewed-by: Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+    Reviewed-by: Philippe Ombredanne <pombredanne@nexb.com>
+    Reviewed-by: Jonas Oberg <jonas@fsfe.org>
+    Reviewed-by: Darrick J. Wong <darrick.wong@oracle.com>
+    Signed-off-by: Jonathan Corbet <corbet@lwn.net>
+
+---------
+
+
+
 
 
 For reference: https://lkml.org/lkml/2017/11/21/261
