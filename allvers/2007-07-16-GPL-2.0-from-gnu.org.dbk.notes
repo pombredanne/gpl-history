@@ -1,0 +1,7 @@
+Date: 2007-07-16
+Links:
+    - https://web.archive.org/web/20070815000000*/http://www.gnu.org/licenses/old-licenses/gpl-2.0.dbk
+Notes: First archived DocBook version of GPL 2. It seems that DocBook
+  files were not generated prior to some time in 2007. This version does not
+  have the "Library" -> "Lesser" change, so perhaps it was generated from
+  the LaTeX sources.
