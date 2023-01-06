@@ -1,8 +1,8 @@
 # gpl-history
 
-This is a collection of historical variants of the GPL-2.0 text as published
-by the FSF and GNU project as well as key adopters (such as the Linux kernel
-and GNU Bash, GCC or Findutils).
+This is a collection of historical variants of various GPL and LGPL license
+texts as published by the FSF and GNU project as well as key adopters (such
+as the Linux kernel and GNU Bash, GCC or Findutils).
 
 It started as a tongue-in-cheek exercise after some exchanges with Linus,
 Alan Cox and other kernel maintainers on LKML while I was working as an Elf
