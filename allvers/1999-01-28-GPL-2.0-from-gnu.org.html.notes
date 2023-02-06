@@ -4,7 +4,9 @@ Links:
 
 Notes: This version Y2K compliant version and was was made Y2K-proof.
  In order to avoid a catastrophic hardcoded date problem,
- the GPL 2 became Y2K compliant at last late in 2000. The copyright
- template "19yy" is replaced by "<yyyy>" (while the fsf variant published later uses <year>
+ the GPL 2 became Y2K compliant. The copyright template "19yy" is replaced by
+ "yyyy" (while the text variant published later uses "<year>" including angle
+ brackets).
+
  The previous version was last captured in December 1998. The correct range when
  it was changed is between December 7, 1998 and January 28, 1999

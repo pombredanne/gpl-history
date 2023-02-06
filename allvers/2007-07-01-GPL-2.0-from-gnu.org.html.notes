@@ -2,8 +2,8 @@ Date: 2007-07-01
 Links:
     - https://web.archive.org/web/20070701213050/https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Notes: 
- In this version the only changes is the HTML formatting when compared to the
- previous HTML version from gnu.org 
+ In this version the URL to the LGPL 2.1 was changed from 'http://' to 'https://'.
+
  Shortly after the publication of the GPL 3.0, the good ole GPL 2.0
  was retired to the old licenses cemetery in the "old-licenses" dir.
  And along the GPL 2 HTML received a cosmetic touchup. 
