@@ -2,5 +2,5 @@ Date: 2016-12-23
 Links:
   - https://web.archive.org/web/20161223204901/https://www.gnu.org/licenses/old-licenses/gpl-1.0.texi
 Notes: a .texi version of the license text. This seems to be identical to the
-    "standalone HTML" text because while the header uses "Franklin St" the text
-    itself uses the old address.
+    "standalone HTML" text because while the header uses "Franklin St" the
+    appendix itself uses the old address "675 Mass Ave".
