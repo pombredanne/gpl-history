@@ -1,0 +1,8 @@
+Date: 2009-10-30
+Link:
+  https://web.archive.org/web/20100116192700/http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt
+  https://web.cvs.savannah.gnu.org/viewvc/www/www/licenses/old-licenses/lgpl-2.0.txt?revision=1.1&view=markup
+Notes:
+  First version in the "old-licenses" directory. Like previous versions misses
+  the word "Software" on line 466, changing the name "Free Software Foundation"
+  to "Free Foundation". This was corrected 5 months later.
